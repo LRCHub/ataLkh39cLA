@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君と世界の終わりに(Vo:あやぽんず＊,あよ)/森羅万象 (アニメ『世界の終わりに柴犬と』主題歌)【Music Video】",
+  "base_artist": "森羅万象",
+  "createdAt": "2025-12-02T16:49:34.045218Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と世界の終わりに",
+      "artist": "森羅万象",
+      "has_synced": false,
+      "path": "select/pl_01_君と世界の終わりに_森羅万象.txt"
+    }
+  ]
+}
